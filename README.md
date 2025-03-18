@@ -37,6 +37,6 @@ Read the [Installation Guide](https://github.com/muzammil-ibrahim/Drone-Swarm/wi
 - [Afreed](https://github.com/mohd-afreed)
 - [Asmith](https://github.com/asmith0713)
 - [Ibrahim](https://github.com/muzammil-ibrahim)
-- [Shahed](https://github.com/MOHAMMEDSHAHED786)
+- [Shahed](https://github.com/mohammedshahed786)
 - [Vaishnavi](https://github.com/vaishnavijade)
 - [Yasin](https://github.com/Zainprime)
