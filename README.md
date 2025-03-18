@@ -25,12 +25,12 @@ https://github.com/user-attachments/assets/87dc6b7e-397b-4e26-b21b-74f4d1c7c911
 
 ## To Setup
 
-Read the [Installation Guide](https://github.com/muzammil-ibrahim/Drone-Swarm/wiki/Installation-Guide)
+Read the [Installation Guide](https://github.com/mohammedshahed786/Drone-Swarm/wiki/Installation-Guide)
 
 
 
 ## Note:
-- To set up the raspberrypi for controlling the LED panel refer the README in the whiterabbit folder [click here](https://github.com/muzammil-ibrahim/Drone-Swarm/blob/main/whiterabbit/README.md)
+- To set up the raspberrypi for controlling the LED panel refer the README in the whiterabbit folder [click here](https://github.com/mohammedshahed786/Drone-Swarm/blob/main/whiterabbit/README.md)
 
 
 ## Contributors
